@@ -1,0 +1,13 @@
+dependencies:
+  - python=3
+  - pip:
+    - ipykernel
+    - plotnine
+    - seaborn
+    - requests
+
+
+    - spacy
+    - jieba
+    - numpy
+    - matplotlib
