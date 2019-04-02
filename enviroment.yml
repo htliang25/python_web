@@ -1,0 +1,22 @@
+dependencies:
+  
+    - python=3
+  
+    - pip:
+ 
+         - ipykernel
+    
+         - scipy
+    
+         - numpy
+    
+         - scikit-learn
+    
+         - matplotlib
+    
+         - pandas
+    
+         - thinc
+
+         - jieba
+
