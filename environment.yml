@@ -11,3 +11,4 @@ dependencies:
   - thinc
   - Cartopy
   - Basemap
+  - proj4
