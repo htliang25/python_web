@@ -9,6 +9,4 @@ dependencies:
   - matplotlib
   - pandas
   - thinc
-  - Cartopy
-  - Basemap
-  - proj4
+  - folium
